@@ -1,7 +1,7 @@
 # <a href="https://people.umass.edu/avsingh" target="_blank">John Rajan Portfolio Website</a>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/johnrajan95908/My-portfolio/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/johnrajan95908/My-portfolio/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://my-portfolio-lime-nine-47.vercel.app/)
 [![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/johnrajan95908/)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20December%202023-yellow.svg)](https://github.com/johnrajan95908/My-portfolio/)
 
